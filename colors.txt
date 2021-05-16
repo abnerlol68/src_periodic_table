@@ -1,0 +1,12 @@
+Metales alcalinos: RGB 249, 160, 93
+Alcalinoterreos: RGB 255, 207, 113
+Otros metales: RGB 252, 239, 156
+Metales de transición: RGB 224, 230, 129
+Lantánidos: RGB 123, 194, 180
+Metaloides: RGB 151, 209, 123
+No metales: RGB 136, 175, 218
+Halógenos: RGB 218, 130, 180
+Gases nobles: RGB 121, 194, 235
+Actinidos: RGB 160, 213, 174
+
+background: 255, 252, 223
